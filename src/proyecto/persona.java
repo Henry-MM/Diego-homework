@@ -1,3 +1,5 @@
+package proyecto;
+
  
 public class persona {
     private String usuario;
